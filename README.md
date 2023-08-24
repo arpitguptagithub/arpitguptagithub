@@ -1,4 +1,8 @@
-# Arpit Gupta
+
+Arpit Gupta: Crafting Code, Innovating Interfaces 🚀
+<div align="center">
+  <img src="https://your-image-url.com/arpitgupta_banner_image" alt="Arpit Gupta Banner">
+</div>
 
 Hey there! Welcome to my GitHub profile. I'm Arpit Gupta, a passionate tech enthusiast and a third-year Computer Science Engineering student at IIT Tirupati. I'm on a journey to become an all-rounder developer and inventor. Let me give you a sneak peek into my world of coding, development, and innovation.
 
@@ -32,6 +36,6 @@ Hey there! Welcome to my GitHub profile. I'm Arpit Gupta, a passionate tech enth
 
 ## Get in Touch
 
-📬 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/arpitgupta) for collaborations, discussions, or just to say hi!
+📬 Feel free to reach out to me via [Mail}(cs21b062@iittp.ac.in) for collaborations, discussions, or just to say hi!
 
 Let's connect, collaborate, and code our way to a smarter future! 🚀👨‍💻
