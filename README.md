@@ -1,6 +1,6 @@
 #Arpit Gupta: Sculpting Code, Shaping Tomorrow 🌌
 <div align="center">
-  <img src="https://yourimageshare.com/ib/Z0qdmxY3Iw" alt="Arpit Gupta Banner">
+  <img src="https://ibb.co/MZ25jSL" alt="Arpit Gupta Banner">
 </div>
 
 Hey there! Welcome to my GitHub profile. I'm Arpit Gupta, a passionate tech enthusiast and a third-year Computer Science Engineering student at IIT Tirupati. I'm on a journey to become an all-rounder developer and inventor. Let me give you a sneak peek into my world of coding, development, and innovation.
